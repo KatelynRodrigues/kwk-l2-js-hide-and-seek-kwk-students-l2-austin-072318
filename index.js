@@ -15,4 +15,3 @@ function increaseRankBy(n){
   return ranks
 }
 
-function 
