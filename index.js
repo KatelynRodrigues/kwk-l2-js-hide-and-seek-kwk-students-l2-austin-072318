@@ -12,4 +12,7 @@ function increaseRankBy(n){
   for (i=0; i<ranks.length; i++){
     ranks[i].innerHTML = (i + n).toString()
   }
+  return ranks
 }
+
+function 
